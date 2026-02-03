@@ -257,17 +257,6 @@ CodefestCTF{Black_Raspberry_Beth_Oliveri}
 
 ---
 
-## 📂 Repository Structure
-
-```
-.
-├── assets/
-│   ├── challenge_image.jpg    # Original jam jar image
-│   ├── reverse_search.png     # Google Lens results (optional)
-│   ├── amazon_listing.png     # Product page screenshot (optional)
-│   └── beth_review.png        # Review screenshot (optional)
-└── README.md                  # This writeup
-```
 
 ---
 
