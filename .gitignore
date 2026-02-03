@@ -1,0 +1,44 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Challenge Files (if you don't want to distribute them)
+# Uncomment the lines below if you want to keep challenge files private
+# *.npy
+# *.csv
+# values.csv
+# chall.npy
+
+# Temporary Files
+*.tmp
+*.bak
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Personal notes
+notes.txt
+TODO.txt
+*.txt
+!LICENSE
+
+# Keep README files
+!**/README.md
