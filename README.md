@@ -217,7 +217,7 @@ This repository contains detailed writeups for challenges solved during the **II
 |--------|-------|
 | **Total Challenges Solved** | 5 |
 | **Categories Covered** | 4 (Misc, Stego, Hardware/Crypto, OSINT) |
-| **Total Points** | 438+ |
+| **Total Points** | --- |
 | **Difficulty Breakdown** | Trivial: 1, Easy: 1, Medium: 3 |
 
 ---
@@ -253,11 +253,6 @@ If you found these writeups helpful:
 - 💬 Open discussions for alternative approaches
 
 ---
-
-## 🔗 Quick Links
-
-- [IIT BHU Codefest CTF Official Site](#) *(Add actual link if available)*
-- [CTFtime Event Page](#) *(Add actual link if available)*
 
 ---
 
